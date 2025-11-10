@@ -6,6 +6,15 @@ A comprehensive, modern web application for managing school operations including
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg)
 
+## 🌐 Deployment
+
+**Important:** This is a **Node.js backend application** that requires a server environment. 
+
+- ❌ **Cannot deploy to Netlify** (static sites only)
+- ✅ **Deploy to Render, Railway, or Heroku** (Node.js hosting)
+
+See **[DEPLOYMENT.md](DEPLOYMENT.md)** for complete deployment instructions.
+
 ## ✨ Features
 
 ### Core Functionality
@@ -283,5 +292,6 @@ For support, questions, or feedback:
 **Built with ❤️ for educational institutions**
 
 *Last Updated: November 3, 2025*
-#   S c h o o l _ M a n a g e m e n t _ S y s t e m  
+#   S c h o o l _ M a n a g e m e n t _ S y s t e m 
+ 
  
